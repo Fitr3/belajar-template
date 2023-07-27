@@ -34,7 +34,7 @@ import { TheCard,Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="158 reviews"
+      review-text="180 reviews"
       review-link="#"
     >
       <template #besideText>
@@ -51,7 +51,7 @@ import { TheCard,Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="100+ reviews"
+      review-text="179 reviews"
       review-link="#"
     >
       <template #besideText>

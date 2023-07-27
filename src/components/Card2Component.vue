@@ -21,11 +21,11 @@ import { TheCard,Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="200+ reviews"
+      review-text="110 reviews"
       review-link="#"
     >
       <template #besideText>
-        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">5.90</p>
+        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">4.90</p>
       </template>
     </Rating>
   </the-card>
@@ -38,30 +38,29 @@ import { TheCard,Rating } from 'flowbite-vue'
     <Rating
       :rating="1"
       :scale="1"
-      review-text="158 reviews"
+      review-text="140 reviews"
       review-link="#"
     >
       <template #besideText>
-        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">5.20</p>
+        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">4.79</p>
       </template>
     </Rating>
   </the-card>
 
 
-  <the-card variant="image" img-src="https://ciloto.com/img-20180920-wa0031/" img-alt="Desk">
+  <the-card variant="image" img-src="https://pix10.agoda.net/hotelImages/agoda-homes/12536046/5df55a71162b9539cc1c7c8730685413.jpg?ca=10&ce=1" img-alt="Desk">
     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">V. LILY</h5>
     <p class="font-normal text-gray-700 dark:text-gray-400">
-       Villa ini terdiri dari bangunan 2 lantai dengan memiliki 6 buah kamar tidur, 3 buah kamar mandi, ruang keluarga, dapur, teras, halaman rumput , gazebo dan tempat parkir yang bisa untuk menyimpan mobil pribadi ataupun bus.
-       
+       Villa ini terdiri dari bangunan 2 lantai dengan memiliki 6 buah kamar tidur, 3 buah kamar mandi, ruang keluarga, dapur, teras, halaman rumput , gazebo dan tempat parkir yang bisa untuk menyimpan mobil pribadi ataupun bus. Villa ini nyaman untuk digunakan liburan.
     </p>
     <Rating
       :rating="1"
       :scale="1"
-      review-text="100+ reviews"
+      review-text="155 reviews"
       review-link="#"
     >
       <template #besideText>
-        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">5.00</p>
+        <p class="ml-2 text-sm font-bold text-gray-900 dark:text-white">4.60</p>
       </template>
     </Rating>
   </the-card>

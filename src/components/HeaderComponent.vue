@@ -6,11 +6,11 @@ const pictures = [
     'alt': 'Picture 1',
   },
   {
-    'src': 'https://arsitagx-master-article.s3.ap-southeast-1.amazonaws.com/article-photo/1006/taman-bali-cover.jpg',
+    'src': 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/304248692.jpg?k=43ac74bf2bf132cc908caa4f8ae8552f6de4eff2c2097bf7394b54979c1b1b7a&o=&hp=1',
     'alt': 'Picture 2',
   },
   {
-    'src': 'https://www.kcjlandscaping.ae/wp-content/uploads/2020/10/Villa-landscaping-in-Dubai.jpg',
+    'src': 'https://media1.cgtrader.com/variants/2tpYory5fb57zJKWimZWXqCa/64d1262c1acde2eb3beef249c4695a8ad88c958dd79db36f763bf631017addd0/landscape%20backyard%20%282%29.jpg',
     'alt': 'Picture 3',
   },
 
